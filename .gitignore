@@ -1,0 +1,10 @@
+# Local Claude Code settings — machine-specific, and settings.local.json
+# accumulates local paths and permission grants. This repo is public, so
+# keep them out rather than relying on remembering to exclude them.
+.claude/
+
+# OS noise
+.DS_Store
+
+# Only present if someone runs npm here; nothing in this repo needs it
+node_modules/
