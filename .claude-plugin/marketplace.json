@@ -1,5 +1,6 @@
 {
   "name": "checklist-design",
+  "description": "Design review for AI coding agents, grounded in Checklist Design's published checklists — audit a screen item by item, or get a quick critique.",
   "owner": {
     "name": "Checklist Design",
     "url": "https://checklist.design"
