@@ -38,8 +38,8 @@ backticks after each name.
 - **Button** `design-system-button.md` — A button is an interactive element that triggers an action when clicked or tapped. It clearly communicates its clickability through visual styling and provides feedback on user interaction, making it a fundamental component for enabling user actions in interfaces.
 - **Badge** `design-system-badge.md` — A badge is a small visual indicator that displays short, dynamic information like counts or status. It typically appears as a colored circle or pill shape, often overlaid on other elements.
 - **Avatar** `design-system-avatar.md` — An avatar is a visual representation of a user. It helps identify individuals across a digital interface, commonly used in user profiles, comment sections, and chat applications.
-- **Dropdown Menu** `design-system-dropdown-menu.md` — A dropdown triggered from a button or right-click target to reveal a menu of actions the user can proceed with
 - **Stepper** `design-system-stepper.md` — A numeric input control with increment and decrement buttons — for adjusting a value by discrete steps, such as quantity, duration, or count.
+- **Dropdown Menu** `design-system-dropdown-menu.md` — A dropdown triggered from a button or right-click target to reveal a menu of actions the user can proceed with
 
 ## Flows
 
@@ -72,32 +72,32 @@ backticks after each name.
 - **Action Sheet** `mobile-action-sheet.md` — The sheet that slides up from the bottom of the screen to present options or confirmations — the mobile equivalent of a dropdown menu or modal dialog.
 - **Tab Bar Navigation** `mobile-tab-bar-navigation.md` — The persistent bottom navigation bar that gives users access to the top-level sections of the app
 - **In-App Notifications** `mobile-in-app-notifications.md` — The in-app feed of alerts, updates, and messages the user has received — distinct from system push notifications.
+- **Camera** `mobile-camera-media-capture.md` — Capturing photos, video, or documents as well as reviewing and customising the capture experience for accessing the phone camera within an app.
 - **Search** `mobile-search.md` — The search experience on mobile where keyboard handling and filtering results are unique to web.
 - **Billing** `mobile-billing.md` — Payment history, receipts, and everything related to how the user is charged.
-- **Camera** `mobile-camera-media-capture.md` — Capturing photos, video, or documents as well as reviewing and customising the capture experience for accessing the phone camera within an app.
 - **Map View** `mobile-map-view.md` — The native map screen showing location-based content, user position, and contextual overlays
 - **Onboarding Checklist** `mobile-onboarding-checklist.md` — The in-app progress checklist that guides a new user through key setup steps to learn how the product works by completing actions.
 - **Paywall** `mobile-paywall.md` — A hard gate that blocks access to locked content and offers a path to subscribe.
 - **Cart** `mobile-cart.md`
 - **Login** `mobile-login.md` — Everything a returning user needs to authenticate quickly and securely.
 - **Sign up** `mobile-sign-up.md` — A low-friction registration flow that collects only what is needed and sets a positive first impression.
-- **Referral** `mobile-referral.md` — The flow through which users earn rewards for introducing new members to the app.
 - **Invite** `mobile-invite.md` — The flow for adding collaborators or members to a shared space with role assignment and pending invite management.
 - **Account** `mobile-account.md` — Private account settings like credentials, linked accounts, notifications, and destructive actions.
+- **Referral** `mobile-referral.md` — The flow through which users earn rewards for introducing new members to the app.
 
 ## Web app
 
-- **Billing** `web-app-billing.md` — Payment methods, invoices, and everything related to the financial side of the account
-- **Help Center** `web-app-help-center.md` — A self-serve documentation hub where users can find answers without contacting support.
 - **Settings** `web-app-settings.md` — A screen that gives users control over their account, preferences, and application behaviour
+- **Help Center** `web-app-help-center.md` — A self-serve documentation hub where users can find answers without contacting support.
+- **Billing** `web-app-billing.md` — Payment methods, invoices, and everything related to the financial side of the account
 - **User Management** `web-app-user-management.md` — A screen that allows admins to view, invite, and manage the users who have access to a product or workspace.
 - **Single Item Detail** `web-app-single-item-detail.md` — A screen that displays the full details of a single record — a user, order, document, or any other entity — after selecting it from a list.
-- **Data Table** `web-app-data-table.md` — A structured grid for dense datasets with sorting, filtering, bulk operations, and column control.
 - **Admin Panel** `web-app-admin-panel.md` — Where administrators manage users, configure the product, and oversee activity across the organisation
-- **Analytics** `web-app-analytics.md` — A live dashboard that surfaces key metrics and trends, helping users understand what is happening right now.
-- **Empty State** `web-app-empty-state.md` — The state of a screen or component when there is no data to display, whether it's because a user is new, has cleared their content, or a search returned no results.
+- **Data Table** `web-app-data-table.md` — A structured grid for dense datasets with sorting, filtering, bulk operations, and column control.
 - **Notifications** `web-app-notifications.md` — An area that surfaces alerts, updates, and activity relevant to the user to help them stay informed
+- **Analytics** `web-app-analytics.md` — A live dashboard that surfaces key metrics and trends, helping users understand what is happening right now.
 - **Onboarding** `web-app-onboarding.md` — A guided experience that introduces new users to the product and gets them to their first moment of value as quickly as possible
+- **Empty State** `web-app-empty-state.md` — The state of a screen or component when there is no data to display, whether it's because a user is new, has cleared their content, or a search returned no results.
 - **Public Profile** `web-app-public-profile.md` — The view of a user that other people in the product see, distinct from the account settings profile, which is private and editable.
 - **Timeline / Gantt View** `web-app-timeline-gantt-view.md` — A screen that displays tasks, milestones, or events along a horizontal time axis, commonly used in project management products to show schedules and dependencies.
 - **Feed** `web-app-feed.md` — A stream of content, activity, or updates that users scroll through to stay informed.
@@ -138,8 +138,8 @@ backticks after each name.
 - **Security** `website-security.md`
 - **Team** `website-team.md` — A team page introduces an organization's staff members, leadership, or key personnel. It typically helps visitors understand the people behind the company while adding a human element to the brand's identity.
 - **Cart** `website-cart.md`
-- **Search** `website-search.md` — A search results page displays organized findings based on a user's search query. It presents relevant matches in a scannable view to help users quickly find and navigate to their desired destination.
 - **Footer** `website-footer.md` — A footer is a persistent section at the bottom of a page that provides consistent access to secondary navigation, legal information and contact details to avoid cluttering the main content area.
+- **Search** `website-search.md` — A search results page displays organized findings based on a user's search query. It presents relevant matches in a scannable view to help users quickly find and navigate to their desired destination.
 - **Careers** `website-careers.md` — A careers page typically displays job openings, company culture, and employment opportunities. It allows potential candidates to explore available positions, learn about the organization's values, and typically includes functionality to submit job applications or contact recruiters.
 - **Blog Post** `website-blog-post.md` — A blog post page displays a single article's content, including its title, author, publication date, and body text. It often includes related media (images, videos), social sharing options, and commenting functionality, allowing readers to engage with the content and navigate to other posts.
 - **Contact Us** `website-contact-us.md` — A contact us page provides visitors with methods to communicate with an organization. It typically includes a contact form, business address, phone numbers, email addresses, and sometimes a location.
@@ -150,4 +150,4 @@ backticks after each name.
 - **Blog** `website-blog.md` — A blog page aggregates and displays multiple articles or posts in a chronological order, typically showing previews, titles, publication dates, and categories. It provides easy navigation through pagination or infinite scroll, allowing users to browse and discover content.
 - **Sign up** `website-sign-up.md` — A sign up page enables new users to create an account by providing required information through a form. It guides users through the registration process, validates input data, and establishes their credentials for accessing restricted features or personalized content.
 
-_Bundled content: v3.2.3, 2026-08-30._
+_Bundled content: v3.2.4, 2026-09-07._
